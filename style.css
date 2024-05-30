@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+}
+/* ------------------------------------------------------ */
+.first-div {
+    background-color: #1F2937;
+    height: 500px;
+}
+
+.first-div .header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    margin: 15px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.link {
+    margin: 15px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E5E7EB;
+}
+
+.hlink {
+    margin: 0px 10px;
+}
+
+/* ------------------------ */
+.head-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.head-left-content {
+    width: 30%;
+}
+
+.head-left-content .main-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 700;
+    margin: 30px auto;
+}
+
+.head-left-content .sub-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 30px auto;
+}
+
+.hero-btn {
+    height: 30px;
+    width: 100px;
+    border-radius: 10%;
+    color: #F9FAF8;
+    font-weight: 800;
+    background-color: #3883F6;
+    margin: 20px auto;
+}
+
+.head-right-content {
+    width: 30%;
+}
+
+.head-right-content .hero-image {
+    height: 100px;
+    width: 100px;
+    margin: 40px 0px;
+}
+
+/* ------------------------------------------------------ */
+.second-div {
+    height: 400px;
+    width: 100%;
+}
+
+/* ------------------------------------------------------ */
+.third-div {
+    height: 400px;
+    background-color: #E5E7EB;
+}
+
+/* ------------------------------------------------------ */
+.fourth-div {
+    height: 400px;
+}
+
+/* ------------------------------------------------------ */
+.fifth-div {
+    height: 100px;
+    background-color: #1F2937
+}
